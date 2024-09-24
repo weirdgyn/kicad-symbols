@@ -1,4 +1,6 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
+(kicad_symbol_lib (version 20220914) 
+  (generator kicad_symbol_editor)
+  (generator_version "8.0")
   (symbol "AD5116" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 7.62 0)
       (effects (font (size 1.27 1.27)))
